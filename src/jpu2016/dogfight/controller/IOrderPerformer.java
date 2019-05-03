@@ -1,4 +1,4 @@
-package controller;
+package jpu2016.dogfight.controller;
 
 public interface IOrderPerformer {
 	public void orderPerformer(UserOrder userOrder);
