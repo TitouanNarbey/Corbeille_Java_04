@@ -1,5 +1,8 @@
 package jpu2016.gameframe;
 
-public class IEventPerformer {
+import java.awt.event.KeyEvent;
 
-}
+public interface IEventPerformer {
+
+	public void eventPerformer( KeyEvent keyCode);
+}	
